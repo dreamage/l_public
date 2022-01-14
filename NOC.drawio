@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T03:51:27.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KSWrvJhrLM5lJhNXUIex" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T03:51:53.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OToV0IhWLjXY8ccnrG6-" version="16.2.6" type="github">
   <diagram id="M0WVf2To3Flb4aFUHyW2" name="Page-1">
     <mxGraphModel dx="1040" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="w6TZy_TVgEyDya5JYvPt-31" value="bj-ops-node-1&lt;br&gt;4C/8G/500G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="307" y="524" width="84" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="w6TZy_TVgEyDya5JYvPt-32" value="telegraf&lt;br&gt;python&lt;br&gt;logstash&lt;br&gt;docker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="510" width="55" height="60" as="geometry" />
+        <mxCell id="w6TZy_TVgEyDya5JYvPt-32" value="telegraf&lt;br&gt;python&lt;br&gt;netflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="439.62" y="517" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="w6TZy_TVgEyDya5JYvPt-33" value="1.北京办公设备参数采集" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.62" y="531" width="140" height="18" as="geometry" />

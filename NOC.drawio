@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:43:10.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="q7jNH3GsKcTAdX0aGcDX" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:59:24.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5nmAelHsXlJrASJp4AKF" version="16.2.6" type="github">
   <diagram id="M0WVf2To3Flb4aFUHyW2" name="Page-1">
     <mxGraphModel dx="1040" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,11 +40,11 @@
         <mxCell id="w6TZy_TVgEyDya5JYvPt-16" value="elasticsearch/7.16.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="406.62" y="124" width="116" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="w6TZy_TVgEyDya5JYvPt-17" value="influxdb&lt;br&gt;mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="434.62" y="197" width="60" height="30" as="geometry" />
+        <mxCell id="w6TZy_TVgEyDya5JYvPt-17" value="influxdb/2.0.9&lt;br&gt;mysql/5.7.28" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="423.62" y="196" width="82" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="w6TZy_TVgEyDya5JYvPt-19" value="grafana&lt;br&gt;kibana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="434.62" y="272" width="60" height="30" as="geometry" />
+        <mxCell id="w6TZy_TVgEyDya5JYvPt-19" value="grafana/7.5.12&lt;br&gt;kibana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="421.62" y="271" width="87" height="32" as="geometry" />
         </mxCell>
         <mxCell id="w6TZy_TVgEyDya5JYvPt-20" value="telegraf&lt;br&gt;python&lt;br&gt;logstash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="434.62" y="337" width="60" height="50" as="geometry" />
